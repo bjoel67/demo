@@ -1,14 +1,1 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[{"appModuleId":1,"moduleName":"Provider Portal","moduleIconImage":null,"moduleDomain":"https://nhproviderportal2.azurewebsites.net","isActive":true},{"appModuleId":2,"moduleName":"Admin Portal","moduleIconImage":null,"moduleDomain":"https://nhadminportal2.azurewebsites.net","isActive":true},{"appModuleId":3,"moduleName":"Accounting Portal","moduleIconImage":null,"moduleDomain":"https://nhaccountsportal2.azurewebsites.net","isActive":true},{"appModuleId":4,"moduleName":"CallCenter Portal","moduleIconImage":null,"moduleDomain":"https://nhcallcenterportal2.azurewebsites.net","isActive":true},{"appModuleId":8,"moduleName":"Catalog Portal","moduleIconImage":null,"moduleDomain":"https://nhcatalogportal2.azurewebsites.net","isActive":true},{"appModuleId":9,"moduleName":"Nations Provider Network","moduleIconImage":null,"moduleDomain":"https://nhnationsprovider2.azurewebsites.net","isActive":true}]
